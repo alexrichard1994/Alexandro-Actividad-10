@@ -13,3 +13,4 @@ console.log (typeof bool)
 console.log (typeof string)
 
 console.log (typeof empty)
+
